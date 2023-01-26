@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Eirene';
-    src: url(Eirene-Sans-Font-Family/EireneSans-Regular.otf);
+    src: url(EireneSans-Regular.otf);
 }
 
 @font-face {
     font-family: 'trap';
-    src: url(Trap_V1.1/Trap-Bold.otf);
+    src: url(Trap-Bold.otf);
 }
 
 @font-face {
     font-family: 'trapExtra';
-    src: url(Trap_V1.1/Trap-ExtraBold.otf);
+    src: url(Trap-ExtraBold.otf);
 }
 
 .mainHead h1{
