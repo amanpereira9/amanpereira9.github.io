@@ -1,0 +1,345 @@
+@font-face {
+    font-family: 'Eirene';
+    src: url(Eirene-Sans-Font-Family/EireneSans-Regular.otf);
+}
+
+@font-face {
+    font-family: 'trap';
+    src: url(Trap_V1.1/Trap-Bold.otf);
+}
+
+@font-face {
+    font-family: 'trapExtra';
+    src: url(Trap_V1.1/Trap-ExtraBold.otf);
+}
+
+.mainHead h1{
+    /* background-color: aqua; */
+    color: white;
+    font-family: trap;
+    font-size: 120px;
+    margin: 0px;
+    line-height: 85px;
+}
+
+.subHead h3{
+    /* background-color: aqua; */
+    color: white;
+    font-family: Eirene;
+    font-size: 37.5px;
+    margin: 0px;
+    line-height: 20px;
+}
+
+.mainHead {
+    padding-top: 200px;
+}
+
+.subHead{
+    margin-top: 60px;
+    margin-left: 7px;
+}
+
+.titleBlock {
+    margin-left: 90px;
+}
+
+.block1{
+    color: white;
+    font-family: Eirene;
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 70px;
+    
+}
+
+.block1number{
+    font-family: trapExtra;
+    font-size: 75px;
+    line-height: 0px;
+    margin-left: 50px;
+    color: #161618;
+}
+
+.block1heading{
+    position: absolute;
+    top: 70px;
+    font-size: 40px;
+}
+
+.block1text{
+    margin-top: 130px;
+}
+
+.block1text h2{
+    margin: 0px;
+    line-height: 12px;
+    font-size: 23px;
+}
+
+
+.block1points {
+    margin-top: 20px;
+}
+
+.block1points h3{
+    margin: 0px;
+    line-height: 27px;
+    font-size: 23px;
+}
+
+.block1alltext{
+    margin-left: 50px;
+}
+
+.block1:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+.block2{
+    color: white;
+    font-family: Eirene;
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    top: 1110px;
+    left: 575px
+    
+}
+
+.block2number{
+    font-family: trapExtra;
+    font-size: 75px;
+    line-height: 0px;
+    margin-left: 50px;
+    color: #161618;
+}
+
+.block2heading{
+    position: absolute;
+    top: 70px;
+    font-size: 40px;
+}
+
+.block2text{
+    margin-top: 130px;
+}
+
+.block2text h2{
+    margin: 0px;
+    line-height: 12px;
+    font-size: 23px;
+}
+
+
+.block2points {
+    margin-top: 20px;
+}
+
+.block2points h3{
+    margin: 0px;
+    line-height: 27px;
+    font-size: 23px;
+}
+
+.block2alltext{
+    margin-left: 50px;
+}
+
+.block2:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+.block3{
+    color: white;
+    font-family: Eirene;
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    top: 1110px;
+    left: 1100px
+    
+}
+
+.block3number{
+    font-family: trapExtra;
+    font-size: 75px;
+    line-height: 0px;
+    margin-left: 50px;
+    color: #161618;
+}
+
+.block3heading{
+    position: absolute;
+    top: 70px;
+    font-size: 40px;
+}
+
+.block3text{
+    margin-top: 130px;
+}
+
+.block3text h2{
+    margin: 0px;
+    line-height: 12px;
+    font-size: 23px;
+}
+
+
+.block3points {
+    margin-top: 20px;
+}
+
+.block3points h3{
+    margin: 0px;
+    line-height: 27px;
+    font-size: 23px;
+}
+
+.block3alltext{
+    margin-left: 50px;
+}
+
+.block3:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.block4{
+    color: white;
+    font-family: Eirene;
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    top: 1635px;
+    left: 320px
+    
+}
+
+.block4number{
+    font-family: trapExtra;
+    font-size: 75px;
+    line-height: 0px;
+    margin-left: 50px;
+    color: #161618;
+}
+
+.block4heading{
+    position: absolute;
+    top: 70px;
+    font-size: 40px;
+}
+
+.block4text{
+    margin-top: 130px;
+}
+
+.block4text h2{
+    margin: 0px;
+    line-height: 12px;
+    font-size: 23px;
+}
+
+
+.block4points {
+    margin-top: 20px;
+}
+
+.block4points h3{
+    margin: 0px;
+    line-height: 27px;
+    font-size: 23px;
+}
+
+.block4alltext{
+    margin-left: 50px;
+}
+
+.block4:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+.block5{
+    color: white;
+    font-family: Eirene;
+    background-color: rgba(255, 255, 255, 0.05);
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    top: 1635px;
+    left: 845px
+    
+}
+
+.block5number{
+    font-family: trapExtra;
+    font-size: 75px;
+    line-height: 0px;
+    margin-left: 50px;
+    color: #161618;
+}
+
+.block5heading{
+    position: absolute;
+    top: 70px;
+    font-size: 40px;
+}
+
+.block5text{
+    margin-top: 130px;
+}
+
+.block5text h2{
+    margin: 0px;
+    line-height: 12px;
+    font-size: 23px;
+}
+
+
+.block5points {
+    margin-top: 20px;
+}
+
+.block5points h3{
+    margin: 0px;
+    line-height: 27px;
+    font-size: 23px;
+}
+
+.block5alltext{
+    margin-left: 50px;
+}
+
+.block5:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+body{
+    background-color: #161618;
+    
+}
+
+.firstbgpage{
+    background-image: url(bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 1032px;
+}
+
+.secondbgpage{
+    width: auto;
+    height: 1032px;
+    background-image: url(bg2.png);
+    background-repeat: no-repeat;
+    background-position: 700px -90px ;
+}
